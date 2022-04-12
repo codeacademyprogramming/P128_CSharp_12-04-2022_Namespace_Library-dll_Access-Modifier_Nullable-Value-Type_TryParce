@@ -1,0 +1,9 @@
+C:\Users\memme\Desktop\P128\Task\P128DemoLibrary\bin\Debug\netcoreapp3.1\P128DemoLibrary.deps.json
+C:\Users\memme\Desktop\P128\Task\P128DemoLibrary\bin\Debug\netcoreapp3.1\P128DemoLibrary.dll
+C:\Users\memme\Desktop\P128\Task\P128DemoLibrary\bin\Debug\netcoreapp3.1\P128DemoLibrary.pdb
+C:\Users\memme\Desktop\P128\Task\P128DemoLibrary\obj\Debug\netcoreapp3.1\P128DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P128\Task\P128DemoLibrary\obj\Debug\netcoreapp3.1\P128DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P128\Task\P128DemoLibrary\obj\Debug\netcoreapp3.1\P128DemoLibrary.AssemblyInfo.cs
+C:\Users\memme\Desktop\P128\Task\P128DemoLibrary\obj\Debug\netcoreapp3.1\P128DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P128\Task\P128DemoLibrary\obj\Debug\netcoreapp3.1\P128DemoLibrary.dll
+C:\Users\memme\Desktop\P128\Task\P128DemoLibrary\obj\Debug\netcoreapp3.1\P128DemoLibrary.pdb

@@ -1,0 +1,17 @@
+C:\Users\memme\Desktop\P128\Task\P128Namespace\obj\Debug\netcoreapp3.1\P128Namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P128\Task\P128Namespace\obj\Debug\netcoreapp3.1\P128Namespace.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P128\Task\P128Namespace\obj\Debug\netcoreapp3.1\P128Namespace.AssemblyInfo.cs
+C:\Users\memme\Desktop\P128\Task\P128Namespace\obj\Debug\netcoreapp3.1\P128Namespace.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P128\Task\P128Namespace\bin\Debug\netcoreapp3.1\P128Namespace.exe
+C:\Users\memme\Desktop\P128\Task\P128Namespace\bin\Debug\netcoreapp3.1\P128Namespace.deps.json
+C:\Users\memme\Desktop\P128\Task\P128Namespace\bin\Debug\netcoreapp3.1\P128Namespace.runtimeconfig.json
+C:\Users\memme\Desktop\P128\Task\P128Namespace\bin\Debug\netcoreapp3.1\P128Namespace.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P128\Task\P128Namespace\bin\Debug\netcoreapp3.1\P128Namespace.dll
+C:\Users\memme\Desktop\P128\Task\P128Namespace\bin\Debug\netcoreapp3.1\P128Namespace.pdb
+C:\Users\memme\Desktop\P128\Task\P128Namespace\obj\Debug\netcoreapp3.1\P128Namespace.dll
+C:\Users\memme\Desktop\P128\Task\P128Namespace\obj\Debug\netcoreapp3.1\P128Namespace.pdb
+C:\Users\memme\Desktop\P128\Task\P128Namespace\obj\Debug\netcoreapp3.1\P128Namespace.genruntimeconfig.cache
+C:\Users\memme\Desktop\P128\Task\P128Namespace\bin\Debug\netcoreapp3.1\P128DemoLibrary.dll
+C:\Users\memme\Desktop\P128\Task\P128Namespace\bin\Debug\netcoreapp3.1\P128DemoLibrary.pdb
+C:\Users\memme\Desktop\P128\Task\P128Namespace\obj\Debug\netcoreapp3.1\P128Namespace.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P128\Task\P128Namespace\obj\Debug\netcoreapp3.1\P128Namespace.csproj.CopyComplete
